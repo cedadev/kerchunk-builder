@@ -14,7 +14,7 @@ jobs:
   build:
     # Linux version requirements
     runs-on: ubuntu-latest
-    #steps:
+    steps:
     # Checkout and build the docs with sphinx
     #- uses: actions/checkout@v2
 
